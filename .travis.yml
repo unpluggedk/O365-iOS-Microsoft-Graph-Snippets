@@ -1,6 +1,6 @@
 language: objective-c
-rvm: 2.2
 before_install:
+- vrm install 2.2.2
 - gem install cocoapods
 - brew update
 - if brew outdated | grep -qx xctool; then brew upgrade xctool; fi
