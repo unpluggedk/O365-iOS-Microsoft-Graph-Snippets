@@ -1,6 +1,6 @@
 language: objective-c
 osx_image: xcode7
-xcode_project: O365-iOS-Unified-API-Snippets.xcworkspace
+xcode_workspace: O365-iOS-Unified-API-Snippets.xcworkspace
 xcode_scheme: O365-iOS-Unified-API-Snippets
 notifications:
   slack:
